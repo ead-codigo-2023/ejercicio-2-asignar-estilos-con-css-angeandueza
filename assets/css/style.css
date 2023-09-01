@@ -6,7 +6,7 @@ body{
 ;
 }
 
-h1{ font-weight: 900;
+h1{  font-weight: 900;
     font-size: 72px;
     line-height: 90px;
     color: #000000;
@@ -40,5 +40,7 @@ a{
     background-image: url(../imagenes/image.jpg);
     background-repeat: no-repeat;
     background-position: bottom right;
+   
+
 
 }
